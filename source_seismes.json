@@ -1,0 +1,94 @@
+{
+    "seismes": [
+        {
+            "id": 1,
+            "instant": "2014-01-31T23:53:37+00:00",
+            "lat": 60.252,
+            "lon": -152.7081,
+            "pays": "Alaska",
+            "mag": 1.1,
+            "profondeur": 90.2
+        },
+        {
+            "id": 2,
+            "instant": "2014-01-31T23:48:35+00:00",
+            "lat": 37.0703,
+            "lon": -115.1309,
+            "pays": "Nevada",
+            "mag": 5.33,
+            "profondeur": 0
+        },
+        {
+            "id": 3,
+            "instant": "2014-01-31T23:47:24+00:00",
+            "lat": 64.6717,
+            "lon": -149.2528,
+            "pays": "Alaska",
+            "mag": 1.3,
+            "profondeur": 7.1
+        },
+        {
+            "id": 4,
+            "instant": "2014-01-31T23:30:54+00:00",
+            "lat": 63.1887,
+            "lon": -148.9575,
+            "pays": "Alaska",
+            "mag": 0.8,
+            "profondeur": 96.5
+        },
+        {
+            "id": 5,
+            "instant": "2014-01-31T23:30:52+00:00",
+            "lat": 32.61683,
+            "lon": -115.6925,
+            "pays": "Mexico",
+            "mag": 1.34,
+            "profondeur": 10.59
+        },
+        {
+            "id": 6,
+            "instant": "2014-01-31T23:30:36+00:00",
+            "lat": 32.56767,
+            "lon": -117.0135,
+            "pays": "Mexico",
+            "mag": 1.51,
+            "profondeur": 0.01
+        },
+        {
+            "id": 7,
+            "instant": "2014-01-31T23:28:04+00:00",
+            "lat": 33.359,
+            "lon": -116.3605,
+            "pays": "California",
+            "mag": 1.17,
+            "profondeur": 12.98
+        },
+        {
+            "id": 8,
+            "instant": "2014-01-31T23:22:52+00:00",
+            "lat": 62.8002,
+            "lon": -150.6965,
+            "pays": "Alaska",
+            "mag": 1.5,
+            "profondeur": 86.4
+        },
+        {
+            "id": 9,
+            "instant": "2014-01-31T23:20:42+00:00",
+            "lat": 58.1695,
+            "lon": -151.9924,
+            "pays": "Alaska",
+            "mag": 2.1,
+            "profondeur": 50.1
+        },
+        {
+            "id": 10,
+            "instant": "2014-01-31T23:17:34+00:00",
+            "lat": 37.686,
+            "lon": -121.7287,
+            "pays": "California",
+            "mag": 1.6,
+            "profondeur": 4.2
+        }
+    ]
+}
